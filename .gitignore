@@ -5,3 +5,7 @@ Temp
 obj
 UnityPerformanceTestingUsage.sln
 Tests.csproj
+.tmp
+build/.vs/Build/v16
+build/bin
+build/.vs
