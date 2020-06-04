@@ -1,0 +1,3 @@
+[submodule "PerformanceBenchmarkReporter"]
+	path = PerformanceBenchmarkReporter
+	url = https://github.com/Unity-Technologies/PerformanceBenchmarkReporter.git
